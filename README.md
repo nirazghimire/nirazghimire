@@ -1,6 +1,6 @@
 # Niraj Ghimire
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirajghimire/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niraj-ghimire-679007203/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge&logo=github)](https://github.com/nirazghimire)
 
 ---
